@@ -1,0 +1,25 @@
+.t{
+    background-color: aqua;
+    color: red;
+    width: 10px;
+}
+
+#tt{
+    
+    border: 10px solid yellow;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+body{
+    
+    background-color: black;
+}
+
+.h{
+    color: yellow;
+}
+#k:hover{
+    color: red;
+}
